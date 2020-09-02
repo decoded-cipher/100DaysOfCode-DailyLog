@@ -8,4 +8,4 @@ This repository is to keep track of the work done during each day of the challen
 
 - **Today's Progress**: Project Authentication Pages.
 - **Thoughts:** Some simple pages using HTML, CSS and Bootstrap for a junior friend of mine for her Mini Project
-- **Link to work:** [Calculator App](http://www.example.com)
+- **Links to work:** [Registration Path](https://decoded-cipher.github.io/100DaysOfCode/Day%201/signup.html), [User Split Page](https://decoded-cipher.github.io/100DaysOfCode/Day%201/split.html)
