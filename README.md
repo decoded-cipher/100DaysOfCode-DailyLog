@@ -15,9 +15,14 @@ This repository is to keep track of the work done during each day of the challen
 - **Thoughts:** Some simple pages using HTML, CSS and Bootstrap for a junior friend of mine for her Mini Project
 - **Links to work:** [Registration Path](https://decoded-cipher.github.io/100DaysOfCode/Day%201/signup.html), [User Split Page](https://decoded-cipher.github.io/100DaysOfCode/Day%201/split.html)
 
-
 ## Day 2: September 03, 2020
 
 - **Today's Progress**: 100DaysOfCode Showcase Page
 - **Thoughts:** A Webpage to showcase my work-log during the challenge period (HTML, CSS, Bootstrap).
 - **Links to work:** [My 100DaysOfCode](https://decoded-cipher.github.io/100DaysOfCode/Day%202/)
+
+## Day 3: September 04, 2020
+
+- **Today's Progress**: Completed : 'Deploy a website to Azure with Azure App Service'
+- **Thoughts:** Completed a learning path (4 hr 30 min) from Microsoft Learn Student Ambassador Learning Resource
+- **Links to work:** [My Azure Test-Webpage](https://ciphercreations.azurewebsites.net/)
