@@ -19,5 +19,5 @@ This repository is to keep track of the work done during each day of the challen
 ## Day 2: September 03, 2020
 
 - **Today's Progress**: 100DaysOfCode Showcase Page
-- **Thoughts:** A Webpage to showcase my work-log during the challenge period. I'm also planning to attach it to my portfolio.
-- **Links to work:** [My 100DaysOfCode](https://decoded-cipher.github.io/100DaysOfCode/)
+- **Thoughts:** A Webpage to showcase my work-log during the challenge period (HTML, CSS, Bootstrap).
+- **Links to work:** [My 100DaysOfCode](https://decoded-cipher.github.io/100DaysOfCode/Day%202/)
