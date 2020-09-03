@@ -14,3 +14,10 @@ This repository is to keep track of the work done during each day of the challen
 - **Today's Progress**: Project Authentication Pages.
 - **Thoughts:** Some simple pages using HTML, CSS and Bootstrap for a junior friend of mine for her Mini Project
 - **Links to work:** [Registration Path](https://decoded-cipher.github.io/100DaysOfCode/Day%201/signup.html), [User Split Page](https://decoded-cipher.github.io/100DaysOfCode/Day%201/split.html)
+
+
+## Day 2: September 03, 2020
+
+- **Today's Progress**: 100DaysOfCode Showcase Page
+- **Thoughts:** A Webpage to showcase my work-log during the challenge period. I'm also planning to attach it to my portfolio.
+- **Links to work:** [My 100DaysOfCode](https://decoded-cipher.github.io/100DaysOfCode/)
