@@ -24,5 +24,11 @@ This repository is to keep track of the work done during each day of the challen
 ## Day 3: September 04, 2020
 
 - **Today's Progress**: Completed : 'Deploy a website to Azure with Azure App Service'
-- **Thoughts:** Completed a learning path (4 hr 30 min) from Microsoft Learn Student Ambassador Learning Resource
+- **Thoughts:** Completed a learning path from Microsoft Learn Student Ambassador Learning Resource
 - **Links to work:** [My Azure Test-Webpage](https://ciphercreations.azurewebsites.net/)
+
+## Day 4: September 05, 2020
+
+- **Today's Progress**: Completed 'Learning Docker' Couse
+- **Thoughts:** Completed a course on Docker from LinkedIn Learning and earned a completion certificate
+- **Links to work:** [Link to Certificate](https://drive.google.com/file/d/179vn0mrAon6FG9kxWGKVGINgW2bWVfj9/view)
