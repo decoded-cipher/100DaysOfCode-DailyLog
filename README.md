@@ -29,6 +29,11 @@ This repository is to keep track of the work done during each day of the challen
 
 ## Day 4: September 05, 2020
 
-- **Today's Progress**: Completed 'Learning Docker' Couse
+- **Today's Progress**: Completed 'Learning Docker' Course
 - **Thoughts:** Completed a course on Docker from LinkedIn Learning and earned a completion certificate
 - **Links to work:** [Link to Certificate](https://drive.google.com/file/d/179vn0mrAon6FG9kxWGKVGINgW2bWVfj9/view)
+
+## Day 5: September 06, 2020
+
+- **Today's Progress**: Week 1 Completed : (Course 1) 'Introduction to the Internet of Things and Embedded Systems'
+- **Thoughts:** Started a new specialization on Coursera - An Introduction to Programming the Internet of Things (IOT) Specialization
