@@ -41,5 +41,6 @@ This repository is to keep track of the work done during each day of the challen
 
 ## Day 6: September 07, 2020
 
-- **Today's Progress**: Started building : 'My Twitter Bot'
-- **Thoughts:** Started building a bot using Twitter API on a test account
+- **Today's Progress**: Started building a Twitter Bot : Created a Time Tweeting Bot
+- **Thoughts:** The present bot version tweets the Date and Time of the Server Machine every hour
+- **Links to work:** [Link to Bot](https://twitter.com/MyCipherBot)
