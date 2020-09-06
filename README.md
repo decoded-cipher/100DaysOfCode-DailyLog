@@ -37,3 +37,10 @@ This repository is to keep track of the work done during each day of the challen
 
 - **Today's Progress**: Week 1 Completed : (Course 1) 'Introduction to the Internet of Things and Embedded Systems'
 - **Thoughts:** Started a new specialization on Coursera - An Introduction to Programming the Internet of Things (IOT) Specialization
+
+
+## Day 6: September 07, 2020
+
+- **Today's Progress**: Started building a Twitter Bot : Created a Time Tweeting Bot
+- **Thoughts:** The present bot version tweets the Date and Time of the Server Machine every hour
+- **Links to work:** [Link to Bot](https://twitter.com/MyCipherBot)
