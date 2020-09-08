@@ -51,8 +51,8 @@ This repository is to keep track of the work done during each day of the challen
 
 ## Day 8: September 09, 2020
 
-- **Today's Progress**: 'Introduction to IoT and Embedded Systems' - Completed , Fixed security bugs in the [Time Tweeting Bot](https://twitter.com/MyCipherBot)
-- **Thoughts:** Stage 1 completed : Course 1 of the Specialization completed: , Learning more about streaming in Twitter API
+- **Today's Progress**: Course 1 Completed , Fixed security bugs in the [Time Tweeting Bot](https://twitter.com/MyCipherBot)
+- **Thoughts:** Stage 1 completed : Course 1 of the Specialization completed: , Learning more on streaming in Twitter API
 - **Links to work:** [Link to Certificate](https://www.coursera.org/account/accomplishments/certificate/EHX8QC72L2FZ)
 
 ## Day 9: September 10, 2020
