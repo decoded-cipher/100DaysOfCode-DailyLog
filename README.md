@@ -58,5 +58,5 @@ This repository is to keep track of the work done during each day of the challen
 ## Day 9: September 10, 2020
 
 - **Today's Progress**: Built a simple REST API using Node.js
-- **Thoughts:** Just to demonstrate GET, POST, PATCH and DELETE methods
+- **Thoughts:** Learning GET, POST, PATCH and DELETE methods
 - **Links to work:** [Link to Repo](https://github.com/decoded-cipher/100DaysOfCode/tree/master/Day%209)
