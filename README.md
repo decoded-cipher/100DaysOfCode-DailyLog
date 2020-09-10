@@ -64,4 +64,4 @@ This repository is to keep track of the work done during each day of the challen
 ## Day 10: September 11, 2020
 
 - **Today's Progress**: Started Course 2 of 'An Introduction to Programming the Internet of Things (IOT) Specialization'
-- **Thoughts:** Completed - Week 1 and 2 of the 2nd course of the Specialization , Started working on a **SECRET PERSONAL PROJECT**
+- **Thoughts:** Completed - Week 1 and 2 of Specialization , Started working on a **SECRET PERSONAL PROJECT**
