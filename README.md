@@ -60,3 +60,8 @@ This repository is to keep track of the work done during each day of the challen
 - **Today's Progress**: Built a simple REST API using Node.js
 - **Thoughts:** Learning GET, POST, PATCH and DELETE methods
 - **Links to work:** [Link to Repo](https://github.com/decoded-cipher/100DaysOfCode/tree/master/Day%209)
+
+## Day 10: September 11, 2020
+
+- **Today's Progress**: Started Course 2 of 'An Introduction to Programming the Internet of Things (IOT) Specialization'
+- **Thoughts:** Completed - Week 1 and 2 of the 2nd course of the Specialization , Started working on a **SECRET PERSONAL PROJECT**
