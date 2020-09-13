@@ -70,3 +70,9 @@ This repository is to keep track of the work done during each day of the challen
 
 - **Today's Progress**: Completed Course 2 of 'IoT Specialization' , Working on the **SECRET PERSONAL PROJECT**
 - **Thoughts:**  Completed - Week 3 and 4 of the 2nd Course of IoT Specialization
+
+## Day 12: September 13, 2020
+
+- **Today's Progress**: Built a RESTful API with Node.js, Express & MySQL and has an Authentication with JWT
+- **Thoughts:**  My first API development experience with JSON Web Token Authentication
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher)
