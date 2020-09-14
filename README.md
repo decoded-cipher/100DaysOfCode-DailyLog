@@ -70,3 +70,9 @@ This repository is to keep track of the work done during each day of the challen
 
 - **Today's Progress**: Completed Course 2 of 'IoT Specialization' , Working on the **SECRET PERSONAL PROJECT**
 - **Thoughts:**  Completed - Week 3 and 4 of the 2nd Course of IoT Specialization
+
+## Day 12: September 13, 2020
+
+- **Today's Progress**: Started Course 3 of 'IoT Specialization' , Learning to build an another RESTful API
+- **Thoughts:** Completed - Week 1 of 'Interfacing with Arduino' Course , Learning to build an APIs with JSON Web Token
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/100DaysOfCode/tree/master/Day%2012)
