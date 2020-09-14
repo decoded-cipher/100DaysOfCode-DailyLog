@@ -53,7 +53,7 @@ This repository is to keep track of the work done during each day of the challen
 
 - **Today's Progress**: Course 1 Completed , Fixed security bugs in the [Time Tweeting Bot](https://twitter.com/MyCipherBot)
 - **Thoughts:** Stage 1 completed - Course 1 of the Specialization , Learning more on streaming in Twitter API
-- **Links to work:** [Link to Certificate](https://www.coursera.org/account/accomplishments/certificate/EHX8QC72L2FZ)
+- **Links to work:** [Link to Certificate](https://coursera.org/share/c0cee4cdf52d39245a097404dbb8f1a6)
 
 ## Day 9: September 10, 2020
 
@@ -70,9 +70,16 @@ This repository is to keep track of the work done during each day of the challen
 
 - **Today's Progress**: Completed Course 2 of 'IoT Specialization' , Working on the **SECRET PERSONAL PROJECT**
 - **Thoughts:**  Completed - Week 3 and 4 of the 2nd Course of IoT Specialization
+- **Links to work:** [Link to Certificate](https://coursera.org/share/753a7fef89f5bcad71706afc47c2632f)
 
 ## Day 12: September 13, 2020
 
 - **Today's Progress**: Started Course 3 of 'IoT Specialization' , Learning to build an another RESTful API
-- **Thoughts:** Completed - Week 1 of 'Interfacing with Arduino' Course , Learning to build an APIs with JSON Web Token
+- **Thoughts:** Completed - Week 1 of 'Interfacing with Arduino' Course , Learning to build an APIs with JWT
 - **Links to work:** [Link to Repo](https://github.com/decoded-cipher/100DaysOfCode/tree/master/Day%2012)
+
+## Day 13: September 14, 2020
+
+- **Today's Progress**: Completed Course 3 of 'IoT Specialization'
+- **Thoughts:**  Completed - Week 2, 3 and 4 of the 3rd Course of IoT Specialization - 'Interfacing with Arduino'
+- **Links to work:** [Link to Certificate]()
