@@ -78,7 +78,7 @@ This repository is to keep track of the work done during each day of the challen
 - **Thoughts:** Completed - Week 1 of 'Interfacing with Arduino' Course , Learning to build an APIs with JWT
 - **Links to work:** [Link to Repo](https://github.com/decoded-cipher/100DaysOfCode/tree/master/Day%2012)
 
-## Day 11: September 12, 2020
+## Day 13: September 14, 2020
 
 - **Today's Progress**: Completed Course 3 of 'IoT Specialization'
 - **Thoughts:**  Completed - Week 2, 3 and 4 of the 3rd Course of IoT Specialization - 'Interfacing with Arduino'
