@@ -91,6 +91,5 @@ This repository is to keep track of the work done during each day of the challen
 
 ## Day 15: September 16, 2020
 
-- **Today's Progress**: Learning more about GitHub Actions
-- **Thoughts:**  Learning more about GitHub Actions
-- **Links to work:** [Link to Repo]()
+- **Today's Progress**: Learning more about CI/CD and GitHub Actions
+- **Thoughts:**  Learning more about Continuous Integration, Delivery or Deployment and GitHub Actions
