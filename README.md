@@ -82,9 +82,15 @@ This repository is to keep track of the work done during each day of the challen
 
 - **Today's Progress**: Completed Course 3 of 'IoT Specialization'
 - **Thoughts:**  Completed - Week 2, 3 and 4 of the 3rd Course of IoT Specialization - 'Interfacing with Arduino'
-- **Links to work:** [Link to Certificate]()
+- **Links to work:** [Link to Certificate](https://coursera.org/share/cb1c3088656f3019fc79cb6aeb9b6010)
 
 ## Day 14: September 15, 2020
 
 - **Today's Progress**: Started Course 4 of 'IoT Specialization'
 - **Thoughts:** Completed - Week 1 of 'The Raspberry Pi Platform and Python Programming for the Raspberry Pi'
+
+## Day 15: September 16, 2020
+
+- **Today's Progress**: Learning more about GitHub Actions
+- **Thoughts:**  Learning more about GitHub Actions
+- **Links to work:** [Link to Repo]()
