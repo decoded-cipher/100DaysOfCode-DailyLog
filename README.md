@@ -87,4 +87,4 @@ This repository is to keep track of the work done during each day of the challen
 ## Day 14: September 15, 2020
 
 - **Today's Progress**: Started Course 4 of 'IoT Specialization'
-- **Thoughts:** Completed - Week 1 of 'The Raspberry Pi Platform and Python Programming for the Raspberry Pi' Course
+- **Thoughts:** Completed - Week 1 of 'The Raspberry Pi Platform and Python Programming for the Raspberry Pi'
