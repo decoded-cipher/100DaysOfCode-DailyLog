@@ -96,5 +96,5 @@ This repository is to keep track of the work done during each day of the challen
 
 ## Day 16: September 17, 2020
 
-- **Today's Progress**: Updated Telegram Bot
-- **Thoughts:**  Just fixed some issues
+- **Today's Progress**: Maintaining my public repos , Updating my Telegram Bot and deployed to Heroku
+- **Thoughts:**  Just fixing some security issues and errors , Learned some lessons from Course 4 of IoT Specialization
