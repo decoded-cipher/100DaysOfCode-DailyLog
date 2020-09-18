@@ -93,3 +93,8 @@ This repository is to keep track of the work done during each day of the challen
 
 - **Today's Progress**: Learning more about CI/CD and GitHub Actions
 - **Thoughts:**  Learning more about Continuous Integration, Delivery or Deployment and GitHub Actions
+
+## Day 16: September 17, 2020
+
+- **Today's Progress**: Updated Telegram Bot
+- **Thoughts:**  Just fixed some issues
