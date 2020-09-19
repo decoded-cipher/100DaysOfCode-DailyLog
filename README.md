@@ -102,4 +102,4 @@ This repository is to keep track of the work done during each day of the challen
 ## Day 17: September 18, 2020
 
 - **Today's Progress**: Completed Week 1 and 2 of Course 4 , Started working on a **SECRET PERSONAL PROJECT**
-- **Thoughts:** Completed - Week 1 and 2 of the 4th Course of IoT Specialization , Working on a **SECRET PERSONAL PROJECT**
+- **Thoughts:** Completed - Working on the 4th Course of IoT Specialization , Working on a **SECRET PERSONAL PROJECT**
