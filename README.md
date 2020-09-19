@@ -98,3 +98,8 @@ This repository is to keep track of the work done during each day of the challen
 
 - **Today's Progress**: Maintaining my public repos , Updating my Telegram Bot and deployed to Heroku
 - **Thoughts:**  Just fixing some security issues and errors , Learned some lessons from Course 4 of IoT Specialization
+
+## Day 17: September 18, 2020
+
+- **Today's Progress**: Completed Week 1 and 2 of Course 4 , Started working on a **SECRET PERSONAL PROJECT**
+- **Thoughts:** Completed - Week 1 and 2 of the 4th Course of IoT Specialization , Working on a **SECRET PERSONAL PROJECT**
