@@ -109,3 +109,8 @@ This repository is to keep track of the work done during each day of the challen
 - **Today's Progress**: Completed Course 4 of 'IoT Specialization' , Started working on a **SECRET PERSONAL PROJECT**
 - **Thoughts:** Completed - Week 3 & 4 of the 4th Course (via Coursera), Working on a **SECRET PERSONAL PROJECT**
 - **Links to work:** [Link to Certificate](https://coursera.org/share/c21c7937bec6b1b0354831ae43b8ffb7)
+
+## Day 19: September 20, 2020
+
+- **Today's Progress**: Completed Week 1 and 2 of Course 5 , Created some webpages for my friends' mini-project
+- **Thoughts:** Learning more about Network Protocols , Planning to build some serious Vue.js projects
