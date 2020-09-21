@@ -112,5 +112,5 @@ This repository is to keep track of the work done during each day of the challen
 
 ## Day 19: September 20, 2020
 
-- **Today's Progress**: Completed Week 1 and 2 of Course 5 , Created some static webpages for my friends' mini-project
+- **Today's Progress**: Completed Week 1 and 2 of Course 5 , Created some webpages for my friends' mini-project
 - **Thoughts:** Learning more about Network Protocols , Planning to build some serious Vue.js projects
