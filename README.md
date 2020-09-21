@@ -9,6 +9,12 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 21: September 22, 2020
+
+- **Today's Progress**: Completed the entire courses and a Capstone Project Module on IoT Specialization
+- **Thoughts:** Planning to start a new course on 'Continuous Delivery & DevOps' , and a new Vue + Node.js Project side-by-side
+- **Links to work:** [Link to Specialization](https://coursera.org/share/05eb9d16b396c680a03a4954a8eef9a2)
+
 ## Day 20: September 21, 2020
 
 - **Today's Progress**: Completed Course 5 of 'IoT Specialization' , Started Course 6 of the Specialization
