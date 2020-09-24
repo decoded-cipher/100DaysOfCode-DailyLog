@@ -9,6 +9,11 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 22: September 23, 2020
+
+- **Today's Progress**: Started brushing up my Vue.js knowledge (Shoutout to Code Inspire & Academind)
+- **Thoughts:** Created a sample test project and just scribbled something in Vue:
+
 ## Day 21: September 22, 2020
 
 - **Today's Progress**: Completed the entire courses and a Capstone Project Module on IoT Specialization
