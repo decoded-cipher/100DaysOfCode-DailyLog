@@ -9,6 +9,11 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 23: September 24, 2020
+
+- **Today's Progress**: Switching back to Hardware Mode : Started building a 4 x 4 x 4 LED Cube using Arduino
+- **Thoughts:** Created 4 individual layers of LED grid and the program for Arduino
+
 ## Day 22: September 23, 2020
 
 - **Today's Progress**: Started brushing up my Vue.js knowledge (Shoutout to Code Inspire & Academind)
