@@ -9,6 +9,11 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 24: September 30, 2020
+
+- **Today's Progress**: Working on thehardware part of 4 x 4 x 4 LED Cube
+- **Thoughts:** 4 later joint structure complete
+
 ## Day 23: September 24, 2020
 
 - **Today's Progress**: Switching back to Hardware Mode : Started building a 4 x 4 x 4 LED Cube using Arduino
