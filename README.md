@@ -9,6 +9,11 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 25: October 01, 2020
+
+- **Today's Progress**: Started 100K Coding Challenge by YouTube: Crossroads
+- **Thoughts:** Just refreshing basic programming skills , Following the [YouTube Playlist](https://youtu.be/pDmEYRhyusU)
+
 ## Day 24: September 30, 2020
 
 - **Today's Progress**: Working on the hardware part of 4 x 4 x 4 LED Cube
