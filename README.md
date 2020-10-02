@@ -9,6 +9,11 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 26: October 02, 2020
+
+- **Today's Progress**: Working on 100K Coding Challenge , Started working on 'Web Development Challenge'
+- **Thoughts:** Continue refreshing some basic lessons , Resource : [YouTube Channel](https://www.youtube.com/channel/UCoGHeFY7jE2OB_TJS_87MOA)
+
 ## Day 25: October 01, 2020
 
 - **Today's Progress**: Started 100K Coding Challenge by YouTube: Crossroads
