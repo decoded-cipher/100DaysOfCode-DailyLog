@@ -9,9 +9,15 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+
+## Day 28: October 04, 2020
+
+- **Today's Progress**: Continue refreshing basic Node.js lessons - ES6, Arrow Functions, Inheritance, Module etc:
+- **Thoughts:** Learning something more on Node.js as day passes
+
 ## Day 27: October 03, 2020
 
-- **Today's Progress**: Started refreshing my Basics Node.js lessons - Callbacks, ES6, Loops, Functions, Objects etc:
+- **Today's Progress**: Started refreshing my Basics Node.js lessons - Callbacks, Loops, Functions, Objects etc:
 - **Thoughts:** A serious approach towards learning Backend Web Development from ultimate scratch
 
 ## Day 26: October 02, 2020
