@@ -10,6 +10,10 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 30: October 06, 2020
+
+- **Today's Progress**: Learning more on the basics of Node.js - Express Framework and HanldeBars etc:
+- **Thoughts:** Learning something more on Node.js as day passes
 
 ## Day 29: October 05, 2020
 
