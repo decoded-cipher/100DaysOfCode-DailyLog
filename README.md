@@ -10,6 +10,12 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 32: October 08, 2020
+
+- **Today's Progress**: Started building an E-Commerce Project using Node.js, Express, HandleBars & MongoDB
+- **Thoughts:** One of the most productive days in my #100DaysOfCode challenge period
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
+
 ## Day 31: October 07, 2020
 
 - **Today's Progress**: Something more from the Node.js Basics - HanldeBars, Express and Express Generator
