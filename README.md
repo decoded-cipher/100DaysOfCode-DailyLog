@@ -9,6 +9,10 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 33: October 09, 2020
+
+- **Today's Progress**: Back to learning Node.js Basics - Promise, Async, Await, MongoDB basics etc:
+- **Thoughts:** Learning something more on Node.js and MongoDB
 
 ## Day 32: October 08, 2020
 
