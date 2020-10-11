@@ -9,6 +9,13 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+
+## Day 34: October 10, 2020
+
+- **Today's Progress**: Continue working on E-Commerce Project
+- **Thoughts:** Completed the User Product Display, Admin Product List and Admin Add Product Pages
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
+
 ## Day 33: October 09, 2020
 
 - **Today's Progress**: Back to learning Node.js Basics - Promise, Async, Await, MongoDB basics etc:
