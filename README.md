@@ -13,7 +13,7 @@ This repository is to keep track of the work done during each day of the challen
 ## Day 35: October 11, 2020
 
 - **Today's Progress**: Continue working on E-Commerce Project
-- **Thoughts:** Completed the User Creation, User SignUp and Login Session Maintenance
+- **Thoughts:** Completed the User Creation with SignUp and Login Pages, Session Maintenance
 - **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
 
 ## Day 34: October 10, 2020
