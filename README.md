@@ -9,6 +9,11 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 36: October 12, 2020
+
+- **Today's Progress**: Continue working on E-Commerce Project
+- **Thoughts:** Completed Pages : Edit Products, User Validation, Add to Cart, Display Cart Count(AJAX)
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
 
 ## Day 35: October 11, 2020
 
