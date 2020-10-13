@@ -9,6 +9,11 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 37: October 13, 2020
+
+- **Today's Progress**: Again with the basics of Node.js - Certain important concepts only
+- **Thoughts:** Working on Callbacks, Promise, Async & Await etc: 
+
 ## Day 36: October 12, 2020
 
 - **Today's Progress**: Continue working on E-Commerce Project
