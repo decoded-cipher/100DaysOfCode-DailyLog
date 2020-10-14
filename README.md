@@ -9,6 +9,13 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+
+## Day 38: October 14, 2020
+
+- **Today's Progress**: Continue working on E-Commerce Project
+- **Thoughts:** Working on the Cart Page : Handling the multiple entries of same product along with Cart-Count
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
+
 ## Day 37: October 13, 2020
 
 - **Today's Progress**: Again with the basics of Node.js - Certain important concepts only
