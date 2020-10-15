@@ -10,6 +10,12 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 39: October 15, 2020
+
+- **Today's Progress**: Continue working on E-Commerce Project
+- **Thoughts:** Working on the Cart Page : Created Individual Product Count Increment and Decrement Button
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
+
 ## Day 38: October 14, 2020
 
 - **Today's Progress**: Continue working on E-Commerce Project
