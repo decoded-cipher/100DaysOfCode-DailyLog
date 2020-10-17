@@ -10,6 +10,13 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+
+## Day 40: October 16, 2020
+
+- **Today's Progress**: Started the '[Responsive Web Design Certification](https://www.freecodecamp.org/learn/)' from [freeCodeCamp.com](https://www.freecodecamp.org)
+- **Thoughts:** Considering it a way to refresh all Web Design Concepts (Afterall, it earns me a certificate)
+- **Links to work:** [My freeCodeCamp Profile](https://www.freecodecamp.org/decoded_cipher)
+
 ## Day 39: October 15, 2020
 
 - **Today's Progress**: Continue working on E-Commerce Project
