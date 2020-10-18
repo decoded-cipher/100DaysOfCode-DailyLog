@@ -11,6 +11,13 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+
+## Day 43: October 19, 2020
+
+- **Today's Progress**: Continue working on E-Commerce Project
+- **Thoughts:** Working on the Cart Page : Product Remove Button, Place-Order Page, Calculate Total Amount
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
+
 ## Day 42: October 18, 2020
 
 - **Today's Progress**: Just revising some "Basic CSS" lessons from the '[Responsive Web Design Certification](https://www.freecodecamp.org/learn/)'
