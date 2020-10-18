@@ -11,6 +11,11 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 42: October 18, 2020
+
+- **Today's Progress**: Just revising some "Basic CSS" lessons from the '[Responsive Web Design Certification](https://www.freecodecamp.org/learn/)'
+- **Thoughts:** Nothing more due to a bug in the ecommerce project : Trying to solve it, but in vain till now.
+
 ## Day 41: October 17, 2020
 
 - **Today's Progress**: Continue working on E-Commerce Project
