@@ -11,6 +11,12 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 41: October 17, 2020
+
+- **Today's Progress**: Continue working on E-Commerce Project
+- **Thoughts:** Working on the Cart Page : Display product quantity using AJAX, Started working on Checkout Page
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
+
 ## Day 40: October 16, 2020
 
 - **Today's Progress**: Started the '[Responsive Web Design Certification](https://www.freecodecamp.org/learn/)' from [freeCodeCamp.com](https://www.freecodecamp.org)
