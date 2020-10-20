@@ -12,6 +12,12 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 44: October 20, 2020
+
+- **Today's Progress**: Continue working on E-Commerce Project
+- **Thoughts:** Working on the Cart Page : Checkout Amount Calculation using AJAX, Order Creation, Clear Cart
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
+
 ## Day 43: October 19, 2020
 
 - **Today's Progress**: Continue working on E-Commerce Project
