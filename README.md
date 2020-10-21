@@ -11,10 +11,11 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+
 ## Day 45: October 21, 2020
 
 - **Today's Progress**: Continue working on E-Commerce Project
-- **Thoughts:** Working on the Cart Page : Order Successfull Page, Order History List Page Started
+- **Thoughts:** Working on the Cart Page : Order Successfull Page, Order History List, Individual Order Details Page
 - **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
 
 ## Day 44: October 20, 2020
