@@ -12,6 +12,11 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 47: October 23, 2020
+
+- **Today's Progress**: Continue working on E-Commerce Project
+- **Thoughts:** Working on the Checkout Page : Verify Razorpay Payment on Server, No product in Cart situation
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
 
 ## Day 46: October 22, 2020
 
