@@ -12,6 +12,12 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 48: October 27, 2020
+
+- **Today's Progress**: Continue working on E-Commerce Project
+- **Thoughts:** Search and Sort products in Admin View Products Table, userLoggedIn() for later Admin Login
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
+
 ## Day 47: October 23, 2020
 
 - **Today's Progress**: Continue working on E-Commerce Project
