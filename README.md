@@ -12,7 +12,13 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
-## Day 48: October 27, 2020
+## Day 49: October 29, 2020
+
+- **Today's Progress**: Started refreshing Vue.js Lessons - 
+- **Thoughts:** E-Commerce Project is almost complete : Will work on more features later
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
+
+## Day 48: October 28, 2020
 
 - **Today's Progress**: Continue working on E-Commerce Project
 - **Thoughts:** Search and Sort products in Admin View Products Table, userLoggedIn() for later Admin Login
