@@ -11,12 +11,16 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 50: October 30, 2020
+
+- **Today's Progress**: Started working on a new Project - An E-Commerce Project using Vue.js + Firebase
+- **Thoughts:** Completed : Landing and About Page using 4-5 Components (With 2 Routes : / and /about) 
+- **Links to work:** [Link to Work](https://github.com/decoded-cipher/Vue-Shop)
 
 ## Day 49: October 29, 2020
 
 - **Today's Progress**: Started refreshing Vue.js Lessons - Routes, Components, Views - Just the basic
 - **Thoughts:** E-Commerce Project is almost complete : Will work on more features later
-- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
 
 ## Day 48: October 28, 2020
 
