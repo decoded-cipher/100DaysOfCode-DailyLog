@@ -14,7 +14,7 @@ This repository is to keep track of the work done during each day of the challen
 
 ## Day 49: October 29, 2020
 
-- **Today's Progress**: Started refreshing Vue.js Lessons - 
+- **Today's Progress**: Started refreshing Vue.js Lessons - Routes, Components, Views - Just the basic
 - **Thoughts:** E-Commerce Project is almost complete : Will work on more features later
 - **Links to work:** [Link to Repo](https://github.com/decoded-cipher/ecommerce)
 
