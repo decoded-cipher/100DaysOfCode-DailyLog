@@ -10,6 +10,12 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 53: November 02, 2020
+
+- **Today's Progress**: Continue working on the Vue + Firebase E-Commerce Project
+- **Thoughts:** Working on Products Child Route - Edit Features using WYSIWYG, Single and Multiple Image Upload 
+- **Links to work:** [Link to Work](https://github.com/decoded-cipher/Vue-Shop)
+
 ## Day 52: November 01, 2020
 
 - **Today's Progress**: Continue working on the Vue + Firebase E-Commerce Project
