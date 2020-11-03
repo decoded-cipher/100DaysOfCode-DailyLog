@@ -10,6 +10,12 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 54: November 03, 2020
+
+- **Today's Progress**: Continue working on the Vue + Firebase E-Commerce Project
+- **Thoughts:** Working on Profile Child Route - Add and Update Profile Details, Profile Password Reset Email Sent 
+- **Links to work:** [Link to Work](https://github.com/decoded-cipher/Vue-Shop)
+
 ## Day 53: November 02, 2020
 
 - **Today's Progress**: Continue working on the Vue + Firebase E-Commerce Project
