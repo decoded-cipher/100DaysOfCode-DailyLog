@@ -9,11 +9,16 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 57: November 06, 2020
+
+- **Today's Progress**: Continue working on the Vue + Firebase E-Commerce Project
+- **Thoughts:** Completed Checkout, Products Route - Deployed onto Firebase, Added GitHub Actions for CI/CD
+- **Link to Work:** [Vue Shop](https://cipher-vue-shop.web.app)
 
 ## Day 56: November 05, 2020
 
 - **Today's Progress**: Continue working on the Vue + Firebase E-Commerce Project
-- **Thoughts:** Working on the / route - MiniCart Completed, Learned something about State Management using Vuex
+- **Thoughts:** Working on the / route - MiniCart Completed, Learned something about State Management - Vuex
 - **Links to work:** [Link to Work](https://github.com/decoded-cipher/Vue-Shop)
 
 ## Day 55: November 04, 2020
