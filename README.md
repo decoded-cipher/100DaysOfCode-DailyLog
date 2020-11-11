@@ -9,6 +9,12 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 58: November 11, 2020
+
+- **Today's Progress**: Preparing to start a new Project - A Vue + Firebase Chat Application
+- **Thoughts:** Learning some new stuff for the project, Created a new Vue Project and a Firebase Project
+- **Link to Work:** [Link to Work](https://github.com/decoded-cipher/Cipher-Chat)
+
 ## Day 57: November 06, 2020
 
 - **Today's Progress**: Continue working on the Vue + Firebase E-Commerce Project
