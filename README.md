@@ -9,6 +9,13 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+
+## Day 59: November 12, 2020
+
+- **Today's Progress**: Solving an Issue, from an Opensource Project named [LinkMon](https://github.com/tinkerhub-org/linkmon) by [TinkerHub](https://github.com/tinkerhub-org)
+- **Thoughts:** Creating a Front-End Website for the Project. Here's the [Mentioned Issue](https://github.com/tinkerhub-org/linkmon/issues/9) on the profile
+- **Link of Pull Request:** [My Attempt](https://github.com/tinkerhub-org/linkmon/pull/11)
+
 ## Day 58: November 11, 2020
 
 - **Today's Progress**: Preparing to start a new Project - A Vue + Firebase Chat Application
