@@ -10,6 +10,12 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 61: November 18, 2020
+
+- **Today's Progress**: Working on the Vue + Firebase Chat Application
+- **Thoughts:** Completed the working of SignUp and Login Components using Firebase Functions
+- **Link to Work:** [Link to Work](https://github.com/decoded-cipher/Cipher-Chat)
+
 ## Day 60: November 17, 2020
 
 - **Today's Progress**: Started working on the Vue + Firebase Chat Application
