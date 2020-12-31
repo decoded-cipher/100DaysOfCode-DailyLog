@@ -18,6 +18,7 @@ This repository is to keep track of the work done during each day of the challen
 
 - **Today's Progress**: Refreshing the basics of JavaScript : It's better to start an year, a-fresh.
 - **Thoughts:** Actually, its good to have the ability to forget something. But, it can be a worst too. So refreshing something.
+- **Link to YouTube Tutorial:** [Learn JavaScript - Full Course for Beginners by freeCodeCamp.org](https://youtu.be/PkZNo7MFNFg)
 
 ## Day 64: December 30, 2020
 
