@@ -10,6 +10,26 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+
+
+
+## Day 64: December 30, 2020
+
+- **Today's Progress**: Completed the IoT Dashboard to showcase LDR Real-time Data
+- **Thoughts:** Completed LDR Real-time Data Visualisation using Chart.js and Firebase Real-time Database - Deployed on Heroku
+- **Link to Work:** [Link to Dashboad](https://inovus-labs-realtime-ldr-data.herokuapp.com/)
+
+## Day 63: December 29, 2020
+
+- **Today's Progress**: Started building an IoT Dashboard to showcase LDR Real-time Data
+- **Thoughts:** Completed - Hardware connection, Program Code and Firebase data ingestion
+- **Link to Work:** [Link to Work](https://github.com/decoded-cipher/Arduino-Code-Scribblings/tree/master/LDR_Realtime_Dashboard)
+
+## Day 62: December 28, 2020
+
+- **Today's Progress**: Experimenting on some weird NodeMCU based projects ideas
+- **Thoughts:** Going crazy with NodeMCU and Sensors Datas; Experimenting with some crazy lines of code.
+
 ## Day 61: November 18, 2020
 
 - **Today's Progress**: Working on the Vue + Firebase Chat Application
