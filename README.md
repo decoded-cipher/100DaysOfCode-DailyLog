@@ -13,6 +13,12 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+
+## Day 65: December 31, 2020
+
+- **Today's Progress**: Refreshing the basics of JavaScript : It's better to start an year, a-fresh.
+- **Thoughts:** Actually, its good to have the ability to forget something. But, it can be a worst too. So refreshing something.
+
 ## Day 64: December 30, 2020
 
 - **Today's Progress**: Completed the IoT Dashboard to showcase LDR Real-time Data
