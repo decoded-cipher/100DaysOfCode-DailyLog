@@ -14,7 +14,7 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
-## Day 66: January, 2021
+## Day 66: January 01, 2021
 
 - **Today's Progress**: Created and Hosted a WordPress Demo Website for free on Heroku
 - **Thoughts:** Actually, I thought, it wasn't possible to do for free - (I may be wrong) - My first WordPress adventure
