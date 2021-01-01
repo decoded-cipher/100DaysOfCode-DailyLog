@@ -14,10 +14,15 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 66: January, 2021
+
+- **Today's Progress**: Created and Hosted a WordPress Demo Website for free on Heroku
+- **Thoughts:** Actually, I thought, it wasn't possible to do for free - (I may be wrong) - My first WordPress adventure
+
 ## Day 65: December 31, 2020
 
 - **Today's Progress**: Refreshing the basics of JavaScript : It's better to start an year, a-fresh.
-- **Thoughts:** Actually, its good to have the ability to forget something. But, it can be a worst too. So refreshing something.
+- **Thoughts:** Actually, its good to have the ability to forget something. But, it can be a worst too. So keep refreshing...
 - **Link to YouTube Tutorial:** [Learn JavaScript - Full Course for Beginners by freeCodeCamp.org](https://youtu.be/PkZNo7MFNFg)
 
 ## Day 64: December 30, 2020
