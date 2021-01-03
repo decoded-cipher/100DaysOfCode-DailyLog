@@ -13,6 +13,10 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 67: January 02, 2021
+
+- **Today's Progress**: Just messing around some Dynamic Programming Concepts using pen and paper - MEMOIZATION
+- **Thoughts:** Learnt a new way to code a Fibonacci Sequence (Not some usual stuff, with temp values)
 
 ## Day 66: January 01, 2021
 
