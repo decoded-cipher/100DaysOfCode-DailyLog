@@ -20,8 +20,8 @@ This repository is to keep track of the work done during each day of the challen
 
 ## Day 69: January 08, 2021
 
-- **Today's Progress**: Started learning Unity, for a collaborative prooject with a friend of mine
-- **Thoughts:** First ever encounter with Unity, Started following somw weird tuorials - Multiple projects in parallel
+- **Today's Progress**: Started learning Unity, for a collaborative project with a friend of mine
+- **Thoughts:** First ever encounter with Unity, Started following some weird tutorials - Multiple projects in parallel
 
 ## Day 68: January 07, 2021
 
