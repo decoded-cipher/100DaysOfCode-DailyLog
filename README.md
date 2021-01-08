@@ -14,7 +14,7 @@ This repository is to keep track of the work done during each day of the challen
 
 ## Day 70: January 09, 2021
 
-- **Today's Progress**: Started working on a the Phase-1 of new project: New Website of Inovus Labs
+- **Today's Progress**: Started working on the Phase-1 of a new project: New Website of Inovus Labs
 - **Thoughts:** Mini IoT Lab - Inventory Management System
 - **Link to Work:** [Link to Repo](https://github.com/decoded-cipher/Inovus-Labs-2.0)
 
