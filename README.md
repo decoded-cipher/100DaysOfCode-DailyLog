@@ -12,6 +12,21 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 70: January 09, 2021
+
+- **Today's Progress**: Started working on a the Phase-1 of new project: New Website of Inovus Labs
+- **Thoughts:** Mini IoT Lab - Inventory Management System
+- **Link to Work:** [Link to Repo](https://github.com/decoded-cipher/Inovus-Labs-2.0)
+
+## Day 69: January 08, 2021
+
+- **Today's Progress**: Started learning Unity, for a collaborative prooject with a friend of mine
+- **Thoughts:** First ever encounter with Unity, Started following somw weird tuorials - Multiple projects in parallel
+
+## Day 68: January 07, 2021
+
+- **Today's Progress**: Getting Struck with the concept of CORS
+- **Thoughts:** Built 2 sample projects to test the API; (But, ended-up in vain)
 
 ## Day 67: January 02, 2021
 
