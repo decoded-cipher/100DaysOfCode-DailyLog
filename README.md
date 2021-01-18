@@ -12,6 +12,29 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+
+## Day 74: January 19, 2021
+
+- **Today's Progress**: Just messing around with SpeechRecognition API and Web Speech API
+- **Thoughts:** Just beating around the doc, and learnt something. Tried out the default code snippet.
+
+## Day 73: January 18, 2021
+
+- **Today's Progress**: RoadMap to learn IoT - Drafted Index - Started scribbling the first few pages with my CODE
+- **Thoughts:** Documenting my experiments helps me to learn more of the behind the curtain scenes while running the code
+
+## Day 72: January 17, 2021
+
+- **Today's Progress**: Started an initiative to curate a RoadMap for learning IoT using the limited resources @ Inovus
+- **Thoughts:** Documenting the experiments, that I carried-out using the IoT components available at our Mini IoT Lab.
+- **Link to Work:** [Link to the Google Docs]()
+
+## Day 71: January 10, 2021
+
+- **Today's Progress**: Working on the Phase-1 of the website Inovus Labs 2.0
+- **Thoughts:** Super Admin Panel - Add, Edit & Delete IoT Components, Used WYSIWYG Editor for the Component Description
+- **Link to Work:** [Link to Repo](https://github.com/decoded-cipher/Inovus-Labs-2.0)
+
 ## Day 70: January 09, 2021
 
 - **Today's Progress**: Started working on the Phase-1 of a new project: New Website of Inovus Labs
