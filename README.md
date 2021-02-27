@@ -13,6 +13,56 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+
+
+
+## Day 83: February 28, 2021
+
+- **Today's Progress**: Back on some boring C programs - MCA Lab Cycle
+- **Thoughts:** Some usial Old-School Stuff
+- **Link to Code:** [Link to Repo](https://github.com/decoded-cipher/C-LabCycle)
+
+## Day 82: February 27, 2021
+
+- **Today's Progress**: Deployed and configured an OpenVPN Server for my personal usage on an Amazon ECS Instance:
+- **Thoughts:** Still working on bare instances (Happy to have something really useful, on the EC2 instance)
+
+## Day 81: February 26, 2021
+
+- **Today's Progress**: Tried deploying EC2 Instance using built-in templetes (Atlest an attempt got succeded:)
+- **Thoughts:** Still working on bare instances (Atleast Wordpress & Ghost templetes are perfectly working for me:)
+
+## Day 80: February 25, 2021
+
+- **Today's Progress**: EC2 Instances are actally fascinating to all - But for me...
+- **Thoughts:** Created a total of 4 Instances; one after the other - ALL in VAIN (Miserably)
+
+## Day 79: February 24, 2021
+
+- **Today's Progress**: Think, S3 Bucket is the best one to start with : Static Site Hosting - (Attempts : 3 Failed & 1 Success)
+- **Thoughts:** Its fun, communicating with remote servers through SSH; but can also be annoying sometimes
+
+## Day 78: February 22, 2021
+
+- **Today's Progress**: Planning to experiment smtng on real bare servers (AWS)
+- **Thoughts:** Refreshing basic linux commands - Thanks to YouTube (Network Chuck)
+
+## Day 77: February 21, 2021
+
+- **Today's Progress**: Playing around NEMA17 Stepper Motor and 2 different Stepper Motor Drivers
+- **Thoughts:** Just some test setups - Controlled and Programmed Rotations (Power-Consuming-Beast :-( )
+
+## Day 76: February 20, 2021
+
+- **Today's Progress**: Mesh Networking on IoT
+- **Thoughts:** Mesh Netwoking - (1 Master, 2 Slaves) - Thanks to TechiSMS (YouTube Channel)
+- **Link to Code:** [Link to Repo](https://github.com/decoded-cipher/Arduino-Code-Scribblings/tree/master/Mesh%20Netwoking)
+
+## Day 75: February 19, 2021
+
+- **Today's Progress**: Trying to inplement Mesh Networking on IoT
+- **Thoughts:** Implementing Mesh Netwoking using 2 NodeMCUs and 1 ESP01 - (1 Master, 2 Slaves) - BUT FAILED:
+
 ## Day 74: January 19, 2021
 
 - **Today's Progress**: Just messing around with SpeechRecognition API and Web Speech API
