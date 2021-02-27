@@ -16,11 +16,6 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
-## Day 83: February 28, 2021
-
-- **Today's Progress**: Back on some boring C programs - MCA Lab Cycle
-- **Thoughts:** Some usial Old-School Stuff
-- **Link to Code:** [Link to Repo](https://github.com/decoded-cipher/C-LabCycle)
 
 ## Day 82: February 27, 2021
 
