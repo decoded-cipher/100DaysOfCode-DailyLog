@@ -16,6 +16,15 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 84: March 01, 2021
+
+- **Today's Progress**: Got a Raspberry Pi 4 to play with : Booting Raspbian OS, Configuring SSH & VNC and some other random scribblings
+- **Thoughts:** Planning to try out some seroius projects on Pi 4. Researching something on that too...
+
+## Day 83: February 28, 2021
+
+- **Today's Progress**: Created a new pattern function for the 4*4*4 LED Cube
+- **Thoughts:** 3 Consecutive loops with alternative incrementation and decrementation of loop variables; i,j and k.
 
 ## Day 82: February 27, 2021
 
