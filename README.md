@@ -14,7 +14,15 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 89: March 01, 2021
 
+- **Today's Progress**: Continue scribbling (Actually learning something) on my AWS Kali VM
+- **Thoughts:** URL Phishing using zPhisher (DDoS using Saphyra - Planning) - Thanks to someone...
+
+## Day 88: March 01, 2021
+
+- **Today's Progress**: Deployed a Kali Linux VM on AWS EC2 and some random scribblings there after:
+- **Thoughts:** Preparing for a combined tech-talk session on Cybersecurity (With live demo of attack)
 
 ## Day 87: March 01, 2021
 
