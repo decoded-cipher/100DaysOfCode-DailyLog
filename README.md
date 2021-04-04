@@ -16,6 +16,28 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 87: March 01, 2021
+
+- **Today's Progress**: Building a Web Server (Node.js) on Raspberry Pi
+- **Thoughts:** Created and Deployed a Telegram Bot (My-Cipher-Bot) on the Pi
+
+## Day 86: March 01, 2021
+
+- **Today's Progress**: IoT on Raspberry Pi - Learning Node RED
+- **Thoughts:** Experimenting on a test Home Automation setup - With Sensor value Guage meters
+
+## Day 85: March 01, 2021
+
+- **Today's Progress**: Learning - Setting Up a Local File Server on Raspberry Pi
+- **Thoughts:** Setting up a file server on RPi using Samba Protocol
+
+
+
+
+
+
+
+
 ## Day 84: March 01, 2021
 
 - **Today's Progress**: Got a Raspberry Pi 4 to play with : Booting Raspbian OS, Configuring SSH & VNC and some other random scribblings
