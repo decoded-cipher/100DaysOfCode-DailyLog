@@ -14,10 +14,6 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
-## Day 90: March 29, 2021
-
-- **Today's Progress**: Continue scribbling (Actually learning something) on my AWS Kali VM
-- **Thoughts:** URL Phishing using zPhisher - Success, (DDoS using Saphyra - Failed, Failed, Failed...)
 
 ## Day 89: March 28, 2021
 
