@@ -14,6 +14,29 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 92: April 01, 2021
+
+- **Today's Progress**: Completed the Color-Tool
+- **Thoughts:** Toggle Mode, Reset() - Created a GitHub Issue for a better UI
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/Vue-Shop)
+- **Give it a Shot:** [Link to GitHub Issue](https://github.com/decoded-cipher/colortool/issues/9#issue-852538990)
+
+## Day 91: March 31 2021
+
+- **Today's Progress**: Continue working on the ColorTool
+- **Thoughts:** Hex to RGB and conversion - Color-codes are fun and exiting, Slider
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/colortool)
+ 
+## Day 90: March 30 2021
+
+- **Today's Progress**: Started building a Color Manipulation Tool - (Lighten/Darken Colors) using Vanilla JavaScript
+- **Thoughts:** Aim was to build something entirely using Vanilla JavAacript, without using any frameworks
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/colortool)
+
+
+
+
+
 
 ## Day 89: March 28, 2021
 
