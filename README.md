@@ -18,8 +18,7 @@ This repository is to keep track of the work done during each day of the challen
 
 - **Today's Progress**: Completed the Color-Tool
 - **Thoughts:** Toggle Mode, Reset() - Created a GitHub Issue for a better UI
-- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/Vue-Shop)
-- **Give it a Shot:** [Link to GitHub Issue](https://github.com/decoded-cipher/colortool/issues/9#issue-852538990)
+- **Links to work:** [Link to Repo](https://github.com/decoded-cipher/Vue-Shop) [Link to GitHub Issue](https://github.com/decoded-cipher/colortool/issues/9#issue-852538990)
 
 ## Day 91: March 31 2021
 
