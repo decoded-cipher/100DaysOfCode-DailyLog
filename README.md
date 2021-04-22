@@ -13,6 +13,24 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 99: April 21, 2021
+
+- **Today's Progress**: Configured a Local NAS Media Server using Kodi and a PiHole Server on AWS
+- **Thoughts:** Actually, I wanted to have it on Heroku, as its practically (somehow) FREE
+
+## Day 98: April 21, 2021
+
+- **Today's Progress**: First ever attempt to code Arduino using JavaScript - Johnny-Five npm module
+- **Thoughts:** Gone crazy - Tried almost every possible code snippet available on the official website
+
+## Day 97: April 20, 2021
+
+- **Today's Progress**: Continue working on the Inovus Resource-Server Project
+- **Thoughts:** Working on the File Upload Page, Struck on with some errors
+
+
+
+
 
 ## Day 96: April 12, 2021
 
