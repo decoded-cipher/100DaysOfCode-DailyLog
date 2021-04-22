@@ -14,6 +14,48 @@ This repository is to keep track of the work done during each day of the challen
 
 
 
+## Day 96: 
+
+- **Today's Progress**: Started building an offline file-server for Inovus for effective learning resource sharing
+- **Thoughts:** Created Home Page - Searchbar for searching files, Started working on the File Upload Page
+- **Plans:** Planning to build it as an Opensource Community-based Project - Must get something to gain reach
+- **Links to work:** [Link to Opensource Project](https://github.com/inovus-labs/resource-server)
+
+## Day 95: 
+
+- **Today's Progress**: Completed my first Dapp - Voting Application (Somehow)
+- **Thoughts:** Actually, Dapp isn't fascinating me. Maybe its because, I wasn't interested in Dapp since I heared of it. 
+
+## Day 94: 
+
+- **Today's Progress**: Started scribbling my first ever Dapp - Voting Application (Main Project for a friend)
+- **Thoughts:** Project Structure, Home Page (Interface), Truffle Test, Compile, Migrate
+
+## Day 93: 
+
+- **Today's Progress**: Learning Prerequisites for trying out my first DAPP. Thank to YouTube Channel - [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+- **Thoughts:** New Terminologies - Contracts and Migrations, Truffle Framework, Ganache, Ethereum Network, Metamask...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Day 92: April 01, 2021
 
 - **Today's Progress**: Completed the Color-Tool
